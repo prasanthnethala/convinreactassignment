@@ -1,0 +1,30 @@
+{
+  "entertainment": [
+    {
+      "id": 1,
+      "name": "tum jo aaye ( example ) ",
+      "url": "https://www.youtube.com/embed/kTXilT_KbUM",
+      "bucket": "entertainment"
+    },
+    {
+      "name": "rrrr",
+      "url": "https://www.instagram.com/reel/Cj9oFq5Azs94ZNKYj2zA30q7OY5-3iI1m2BR9I0/?igshid=YmMyMTA2M2Y=",
+      "bucket": "entertainment",
+      "id": 2
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "name": "History  ( example ) ",
+      "url": "https://www.youtube.com/embed/ofgIDZHTjTQ",
+      "bucket": "Education"
+    },
+    {
+      "name": "yyy",
+      "url": "https://www.instagram.com/reel/CmQUvL5g5Uh/?igshid=YmMyMTA2M2Y=",
+      "bucket": "education",
+      "id": 2
+    }
+  ]
+}
